@@ -2,4 +2,4 @@ Testing
 
 The book has been added currently writing about testing.
 In the beginning things happened
-hello world
+hello world \(^_^)/
